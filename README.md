@@ -33,5 +33,5 @@ This is my first full-stack web application built using **Django REST Framework 
 - **Axios** for handling API requests.
 - **React Context API** for global state management.
 
-This project is a work in progress, and I plan to enhance it with new features over time! 🚀
+This project is a work in progreSQL, and I plan to enhance it with new features over time! 🚀
 
